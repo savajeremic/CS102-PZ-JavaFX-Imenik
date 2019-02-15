@@ -1,0 +1,124 @@
+﻿Location of Serbia
+
+Location
+
+Country Serbia
+
+Continent Europe
+
+Regulator RATEL
+
+Type Open
+
+Typical format 0xx xxx xx xx
+
+Access codes
+
+Country calling code +381
+
+International call prefix 00
+
+Trunk prefix
+
+Network Group Code Municipalities covered by code
+
+Belgrade 11 Belgrade, Barajevo, Grocka, Lazarevac, Mladenovac, Obrenovac, Sopot, Surčin
+
+Bor 30 Bor, Boljevac, Majdanpek
+
+Čačak 32 Čačak, Gornji Milanovac, Ivanjica, Lučani
+
+Jagodina 35 Jagodina, Ćuprija, Despotovac, Paraćin, Rekovac, Svilajnac
+
+Kragujevac 34 Kragujevac, Aranđelovac, Batočina, Knić, Lapovo, Rača, Topola
+
+Kraljevo 36 Kraljevo, Raška, Vrnjačka Banja
+
+Kruševac 37 Kruševac, Aleksandrovac, Brus, Ćićevac, Ražanj, Trstenik, Varvarin
+
+Leskovac 16 Leskovac, Bojnik, Crna Trava, Lebane, Medveđa, Vlasotince
+
+Niš 18 Niš, Aleksinac, Bela Palanka, Doljevac, Gadžin Han, Merošina, Sokobanja, Svrljig
+
+Novi Pazar 20 Novi Pazar, Sjenica, Tutin
+
+Pirot 10 Pirot, Babušnica, Dimitrovgrad
+
+Požarevac 12 Požarevac, Golubac, Kučevo, Petrovac, Veliko Gradište, Žabari, Žagubica, Malo Crniće
+
+Prijepolje 33 Prijepolje, Nova Varoš, Priboj
+
+Prokuplje 27 Prokuplje, Blace, Kuršumlija, Žitorađa
+
+Smederevo 26 Smederevo, Smederevska Palanka, Velika Plana
+
+Šabac 15 Šabac, Bogatić, Koceljeva, Krupanj, Ljubovija, Loznica, Mali Zvornik, Vladimirci
+
+Užice 31 Užice, Arilje, Bajina Bašta, Čajetina, Kosjerić, Požega
+
+Valjevo 14 Valjevo, Lajkovac, Ljig, Mionica, Osečina, Ub
+
+Vranje 17 Vranje, Bosilegrad, Bujanovac, Preševo, Surdulica, Trgovište, Vladičin Han
+
+Zaječar 19 Zaječar, Kladovo, Knjaževac, Negotin
+
+Network Group Code Municipalities covered by code
+
+Kikinda 230 Kikinda, Čoka, Novi Kneževac
+
+Novi Sad 21 City of Novi Sad, Bač, Bačka Palanka, Bački Petrovac, Bečej, Beočin, Temerin, Titel, Srbobran, Sremski Karlovci, Vrbas, Žabalj
+
+Pančevo 13 Pančevo, Alibunar, Bela Crkva, Kovačica, Kovin, Opovo, Plandište, Vršac
+
+Sombor 25 Sombor, Apatin, Kula, Odžaci
+
+Sremska Mitrovica 22 Sremska Mitrovica, Inđija, Irig, Pećinci, Ruma, Stara Pazova, Šid
+
+Subotica 24 Subotica, Ada, Bačka Topola, Kanjiža, Mali Iđoš, Senta
+
+Zrenjanin 23 Zrenjanin, Novi Bečej, Sečanj, Srpska Crnja, Žitište
+
+Network Group Code Municipalities covered by code
+
+Uroševac 290 Uroševac, Kačanik, Štrpce
+
+Đakovica 390 Đakovica, Dečani
+
+Gnjilane 280 Gnjilane, Kosovska Kamenica, Vitina
+
+Kosovska Mitrovica 28 Kosovska Mitrovica, Leposavić, Skenderaj, Vučitrn
+
+Peć 39 Peć, Istok, Klina
+
+Priština 38 Priština, Gračanica, Kosovo Polje, Lipljan
+
+Prizren 29 Prizren, Dragaš, Orahovac, Suva Reka
+
+Code Usage
+
+60, 61, 68[a] Vip Mobile
+
+62, 63, 69 Telenor Serbia
+
+64, 65, 66 mt:s (Telekom Srbija)
+
+Code Usage Notes
+
+44, 45 Vala +383 (from 1 January 2015) Until 2014, +377 country calling code was used (Monaco).
+
+43, 49 IPKO +383 (from 1 January 2015) Until 2014, +386 country calling code was used (Slovenia).
+
+v t e Telephone numbers in Europe
+
+
+
+Sovereign states Albania Andorra Armenia Austria Azerbaijan Belarus Belgium Bosnia and Herzegovina Bulgaria Croatia Cyprus Czech Republic Denmark Estonia Finland France Georgia Germany Greece Hungary Iceland Ireland Italy Kazakhstan Latvia Liechtenstein Lithuania Luxembourg Macedonia Malta Moldova Monaco Montenegro Netherlands Norway Poland Portugal Romania Russia San Marino Serbia Slovakia Slovenia Spain Sweden Switzerland Turkey Ukraine United Kingdom Vatican City
+
+
+
+States with limited recognition Abkhazia Kosovo Nagorno-Karabakh Northern Cyprus South Ossetia Transnistria
+
+
+
+Dependencies and other territories Åland Faroe Islands Gibraltar Guernsey Isle of Man Jersey Svalbard
+
